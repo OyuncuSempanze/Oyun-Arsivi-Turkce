@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Güncellemeler
 
 Bu sayfada Bloody Bastards için yayımlanan güncellemeler ve oyuna eklenen veya değiştirilen içerikler listelenmektedir.
