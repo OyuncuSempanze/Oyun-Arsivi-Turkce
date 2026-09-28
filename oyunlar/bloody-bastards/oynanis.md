@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Oynanış
 
 Bloody Bastards, fizik tabanlı dövüş mekaniklerine sahip 2D bir dövüş oyunudur. Oyuncu, farklı silah ve ekipmanlar kullanarak çeşitli rakiplere karşı savaşır. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
