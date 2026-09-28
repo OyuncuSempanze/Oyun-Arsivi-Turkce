@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Oyun Hakkında
  * **Bloody Bastards**, 31 Ocak 2020 tarihinde Android cihazlara çıkış yapar.  **[Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)** **Tibith** tarafından geliştirilmiş bir oyundur. **[Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)**
