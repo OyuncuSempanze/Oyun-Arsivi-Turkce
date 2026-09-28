@@ -1,3 +1,7 @@
+---
+title: Bloody Bastards
+---
+
 # Bloody Bastards
 
 Bloody Bastards hakkında Türkçe bilgi arşivi.
