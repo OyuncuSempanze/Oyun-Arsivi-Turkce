@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Silah ve Hasar Türleri
 
 ## Silahlar
