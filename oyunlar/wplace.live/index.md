@@ -7,3 +7,5 @@ title: Wplace
 Wplace.live hakkında Türkçe bilgi arşivi.
 
 ## İçerikler
+
+[Oyun Hakkında](oyun-hakkinda.md)
