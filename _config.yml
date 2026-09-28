@@ -1,0 +1,10 @@
+title: Türkçe Oyun Arşivi
+description: Türkçe oyunlar hakkında kaynaklandırılmış ve düzenli bilgi arşivi.
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
