@@ -1,9 +1,0 @@
-title: Türkçe Oyun Arşivi
-description: Oyunlar hakkında Türkçe ve kaynaklandırılmış düzenli bilgi arşivi.
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
