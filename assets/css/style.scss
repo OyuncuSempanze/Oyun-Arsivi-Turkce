@@ -1,31 +1,40 @@
----
----
-
 body {
-  background: #151515 !important;
-  color: #eee8c9 !important;
-  font-family: Georgia, "Times New Roman", serif !important;
+  background-color: #ffffff;
+  color: #111111;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.7;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #f2edcf !important;
-  font-family: Georgia, "Times New Roman", serif !important;
+h1 {
+  font-size: 30px;
+  color: #111111;
+}
+
+h2 {
+  font-size: 24px;
+  color: #111111;
+}
+
+h3 {
+  font-size: 20px;
+  color: #111111;
 }
 
 p,
 li {
-  color: #eee8c9 !important;
+  color: #111111;
+  font-size: 16px;
 }
 
 a {
-  color: #31577f !important;
+  color: #173f6f;
 }
 
 a:hover {
-  color: #426f9e !important;
+  color: #102f52;
+}
+
+.container {
+  max-width: 850px;
 }
