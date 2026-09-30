@@ -1,3 +1,6 @@
+---
+---
+
 * {
   box-sizing: border-box;
 }
@@ -9,43 +12,42 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #1E1E1E;      /* Modern Koyu Arka Plan */
-  color: #E0E0E0;           /* Okunabilir Kırık Beyaz Yazı */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* Modern ve okunaklı font sans-serif */
-  line-height: 1.6;
+  background: #171816;
+  color: #dedbd2;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.65;
 }
 
 .site {
-  width: 900px;
-  max-width: calc(100% - 30px);
-  margin: 25px auto;
-  background: #2D2D2D;      /* Bir tık açık iç kutu */
-  border: 1px solid #3D3D3D; /* Yumuşatılmış modern sınır */
-  border-radius: 8px;       /* Köşeleri hafif yumuşatarak modernleştirdik */
-  overflow: hidden;
+  width: 880px;
+  max-width: calc(100% - 28px);
+  margin: 28px auto;
+  background: #22231f;
+  border: 1px solid #3b3c36;
 }
 
 .site-header {
-  padding: 20px 25px;
-  background: #363636;      /* En üst katman açık gri */
-  border-bottom: 1px solid #444444;
+  padding: 20px 26px 18px;
+  background: #1d1e1b;
+  border-bottom: 1px solid #3b3c36;
 }
 
 .site-header h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 29px;
+  line-height: 1.25;
   font-weight: bold;
 }
 
 .site-header h1 a {
-  color: #FFFFFF;           /* Başlık linki tam beyaz */
+  color: #f0ede4;
   text-decoration: none;
 }
 
 .site-header p {
-  margin: 6px 0 12px 0;
-  color: #B3B3B3;           /* Alt başlık hafif silik gri */
-  font-size: 16px;
+  margin: 7px 0 13px;
+  color: #aaa79e;
+  font-size: 15px;
 }
 
 nav {
@@ -53,16 +55,18 @@ nav {
 }
 
 nav a {
-  color: #38BDF8;           /* Koyu temaya uygun parlak modern mavi link */
+  color: #6f9ab8;
   text-decoration: none;
+  border-bottom: 1px solid transparent;
 }
 
 nav a:hover {
-  text-decoration: underline;
+  color: #89aec7;
+  border-bottom-color: #89aec7;
 }
 
 .content {
-  padding: 25px 35px 35px 35px;
+  padding: 30px 36px 38px;
   min-height: 500px;
 }
 
@@ -72,107 +76,30 @@ nav a:hover {
 .content h4,
 .content h5,
 .content h6 {
-  color: #FFFFFF;           /* İçerik başlıkları net beyaz */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-weight: 600;
+  color: #f0ede4;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  line-height: 1.3;
 }
 
 .content h1 {
-  font-size: 27px;
   margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
 }
 
 .content h2 {
-  font-size: 22px;
-  border-bottom: 1px solid #444444;
+  margin-top: 30px;
+  margin-bottom: 14px;
   padding-bottom: 5px;
+  font-size: 22px;
+  border-bottom: 1px solid #41423c;
 }
 
 .content h3 {
+  margin-top: 24px;
+  margin-bottom: 10px;
   font-size: 18px;
 }
 
-.content p,
-.content li {
-  color: #E0E0E0;           /* Gözü yormayan ana metin rengi */
-  font-size: 16px;
-}
-
-/* Koyu Tema İçin Yeniden Tasarlanmış Link Renkleri */
-.content a {
-  color: #38BDF8;           /* Canlı modern mavi */
-  text-decoration: none;
-}
-
-.content a:visited {
-  color: #A78BFA;           /* Ziyaret edilmiş link için yumuşak mor */
-}
-
-.content a:hover {
-  color: #7DD3FC;           /* Üzerine gelince parlayan açık mavi */
-  text-decoration: underline;
-}
-
-.content a:active {
-  color: #F43F5E;           /* Tıklama anında kırmızı/pembe vurgu */
-}
-
-.content hr {
-  border: 0;
-  border-top: 1px solid #444444;
-}
-
-.content blockquote {
-  margin-left: 0;
-  padding-left: 15px;
-  border-left: 3px solid #38BDF8; /* Alıntı çizgisine şık bir mavi vurgu */
-  color: #B3B3B3;
-}
-
-/* Kod Blokları (Koyu temaya uyumlu hale getirildi) */
-.content code,
-.content pre {
-  font-family: "Fira Code", Monaco, Consolas, "Courier New", monospace;
-  background: #1E1E1E;      /* Kod arka planı en koyu gri yapıldı */
-  color: #F8F8F2;           /* Kod yazısı kırık beyaz */
-}
-
-.content code {
-  padding: 2px 5px;
-  border-radius: 4px;
-}
-
-.content pre {
-  padding: 15px;
-  border: 1px solid #444444;
-  border-radius: 6px;
-  overflow-x: auto;
-}
-
-/* Tablolar (Koyu temaya uyumlu hale getirildi) */
-.content table {
-  border-collapse: collapse;
-  margin: 15px 0;
-  width: 100%;
-}
-
-.content th,
-.content td {
-  border: 1px solid #444444;
-  padding: 8px 12px;
-  text-align: left;
-}
-
-.content th {
-  background: #363636;      /* Tablo başlığı belirgin gri */
-  color: #FFFFFF;
-}
-
-/* Footer (Eski çiğ aydınlık görünümden kurtarıldı) */
-.site-footer {
-  padding: 15px 20px;
-  border-top: 1px solid #3D3D3D;
-  background: #252525;      /* İç kutudan hafifçe daha koyu */
-  color: #888888;           /* Silik footer metni */
-  font-size: 14px;
-}
+.content h
