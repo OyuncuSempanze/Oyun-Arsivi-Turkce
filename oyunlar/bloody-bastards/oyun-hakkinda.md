@@ -1,29 +1,15 @@
 ---
+
 layout: default
----
 
-# Oyun Hakkında
- * **Bloody Bastards**, 31 Ocak 2020 tarihinde Android cihazlara çıkış yapar.  **[Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)** **Tibith** tarafından geliştirilmiş bir oyundur. **[Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)**
+Oyun Hakkında
 
-* Günümüzde de hâlâ güncellemeler alır. **[Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)**
+Geliştirici: Tibith [Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
 
+Yayınlanma Tarihi: 31 Ocak 2020 (Android) [Kaynak](https://www.mobygames.com/game/226097/bloody-bastards/releases/)
 
-* **Mobil** ve **PC** üzerinden ([BlueStacks](https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html) benzeri emülatörleri kullanarak.) oynayabilirsiniz. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
+Platformlar: Android, iOS ve PC/Chromebook desteği bulunmaktadır. [Kaynak](https://www.mobygames.com/game/226097/bloody-bastards/) [Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
 
-* Amacınız, rakibinizi **yok etmektir**. Bunun için karakterinizin 2 kolunu da **ayrı ayrı** kullanırsınız. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
+Tür: Fizik tabanlı 2D dövüş oyunu; piksel sanat ve ragdoll mekanikleri içerir. [Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
 
-* Oyun, **2D piksel sanat** grafiklerine sahiptir. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
-
-* Oyunda çeşit çeşit medeniyetler ve silahlar bulunur. **[Resmi Kaynak]( https://tibith.com/#/bloodybastards/)** Her medeniyete özgü silah, zırh ve kalkan vardır. [Oyun İçi Gözlem]
-
-* Online modda **gerçek oyuncularla** oynarsınız. **[Resmi Kaynak](https://tibith.com/#/bloodybastards/)**
-
-* Tekoyunculu modda ise **botlara karşı** oynarsınız. [Oyun İçi Gözlem]
-
-## KAYNAKLAR
-
-[Bloody Bastards - BlueStacks](https://www.bluestacks.com/apps/action/bloody-bastards-on-pc.html)
-
-[Bloody Bastards - Play Store](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
-
-[Oyunun Resmi Web Sitesi](https://tibith.com/#/bloodybastards/)
+Resmî Site: [Tibith](https://tibith.com/bloodybastards)
