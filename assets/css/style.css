@@ -100,3 +100,16 @@ nav a:hover {
 }
 
 .content h
+
+.content a {
+  color: #4f7185;
+  text-decoration: underline;
+}
+
+.content a:visited {
+  color: #6f6877;
+}
+
+.content a:hover {
+  color: #64879a;
+}
