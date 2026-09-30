@@ -4,9 +4,9 @@ layout: default
 
 # Görseller
 
-![Oynanış görüntüsü 1](ekran1.png)
+![Medeniyetler](Screenshot_20260930_224042_com_tibith_badboxing_UnityPlayerActivity.jpg)
 
-Kısa açıklama.
+Bloody Bastards'taki medeniyetler.
 
 ![Oynanış görüntüsü 2](ekran2.png)
 
