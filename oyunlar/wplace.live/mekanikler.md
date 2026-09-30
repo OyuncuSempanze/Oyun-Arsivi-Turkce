@@ -1,54 +1,47 @@
 ---
+
 layout: default
----
 
 # Mekanikler
 
-* Oyuncular her 30 saniyede 1 piksel kazanır, bu süre herhangi bir şekilde kısaltılamaz.
+## Temel Mekanikler
 
-* Oyuncular damlacık (droplets) puanları ile mağazadan çeşit çeşit kozmetik veya geliştirmeler alabilir.
+- Oyuncular başlangıçta 30 piksel hakkıyla başlar ve harcanan her piksel her 30 saniyede bir yenilenir. Bu yenileme süresi normal kanvas için sabittir. Oyuncular bu hızı **(ana haritada)** kısaltamaz [Kaynak](https://github.com/TeamRealB/Wplace-Protocol/blob/main/README_EN.md) [Resmi Kaynak](https://wplace.live/patch-notes). (Not: Klan merkezlerinde şarj yenileme süresi “Alliance Headquarters” yükseltmeleriyle klana özel olan haritada 10 ya da 5 saniyeye indirilebilir.)
 
-* Oyunda şablon desteği vardır ve yakın zamanda gelen v1.6.10 sürümüyle birlikte şablon mekaniği detaylandırılarak geliştirilmiştir. PNG, WebP, JPG, ORA ve PSD uzantılı dosyaları şablona yükleyerek pikselleri daha kolay boyayabileceğiniz belirtilir.
-
-* Klan (Alliance) mekaniği ile 20.000 damlacık (droplets) puanı harcayarak klan oluşturulabilir. Klanda, tüm üyeler klan şablonu üzerinde birlikte boyama yapabilir ve klanların harita dışında özel bir boyama alanı vardır.
+- Oyuncular Damla (Droplets) adı verilen puanları biriktirir ve bunları mağazada çeşitli kozmetik eşyalar ile oyun içi geliştirmeler için harcayabilir [Kaynak](https://placepixels.com/wplace-droplets). Örneğin profil resimleri, avatarlar, bayraklar veya renk paketleri Droplets’le satın alınır.
 
 ## Dükkan
 
-- Oyuncular haritada her 1 piksel boyadıklarında 1 damlacık (droplets) puanı kazanır.
-- Bu damlacık puanı ile mağazadan kalıcı geliştirmeler alınabilir. Geliştirmeler ve ücretleri şu şekildedir:
+- **Anında +30 Piksel:** Mevcut piksel hakkına 30 adet ekler. Maliyet: 500 Droplets [Kaynak](https://placepixels.com/wplace-droplets).
 
-**Anında 30 Piksel Kazanma:** Mevcut piksel sayısına 30 piksel eklenir. Maaliyet: **500 Damlacık Puanı**
+- **Kalıcı +5 Kapasite:** Piksel havuzu maksimumunu 5 arttırır. Maliyet: 500 Droplets [Kaynak](https://github.com/TeamRealB/Wplace-Protocol/blob/main/README_EN.md).
 
-**Kalıcı +5 Piksel Kapasitesi**: Mevcut piksel kapasiteniz 5 artar. Böylelikle uyurken, işteyken veya okuldayken süre boşa gitmez; piksel kazanır, zamandan tasarruf edilir. Maaliyet: **500 Damlacık Puanı**
+- **Bayrak (Ulusal Bölge):** 20.000 Droplets karşılığında satın alınır. Aktifleştirilen ülke bayrağı altında boyanan her pikselin %10’u anında geri gelir [Kaynak](https://github.com/TeamRealB/Wplace-Protocol/blob/main/README_EN.md). Bayrak bir defa satın alındığında **kalıcı olarak** hesaba eklenir. **(Yani örneğin Türkiye bayrağı alınıp seçildiğinde, Türkiye sınırları içinde boyanan piksellerin %10’u yükte geri kazanılır.)**
 
-**Bayrak:** **PİKSEL BOYADIĞINIZ BÖLGEDEKİ ÜLKEYE GÖRE** hesaplanır. Eğer Türkiye bayrağı alınıp aktifleştirilirse haritada Türkiye sınırları içinde boyanan her piksel **%10** iade edilir. Bayrak, hesapta **kalıcı** olarak durur. Aynı anda **1** bayrak aktifleştirilebilir. Maaliyet: **20.000 Damlacık Puanı**
+- **Kozmetik Ürünler:** Özel avatar veya kilitli renk gibi öğelerdir. Örneğin özel avatar 20.000, premium renkler ise 2.000 Droplets’tır [Kaynak](https://placepixels.com/wplace-droplets). Bu ürünler yalnızca görsel amaçlıdır ve oynanışı etkilemez.
 
-**Kozmetik Ürünler:** Oynayışınızı etkilemez, yalnızca görsel ürünler. Maaliyet: Minimum **20.000 Damlacık Puanı** Maksimum **30.000 Damlacık Puanı**
+## Damlacık Kazanma
 
-## Damlacık (Droplets) Kazanma
+- **Piksel Boyayarak:** Ana haritaya her yerleştirilen piksel için 1 Droplet verilir [Kaynak](https://github.com/TeamRealB/Wplace-Protocol/blob/main/README_EN.md).
 
-**Piksel Boyayarak:** 1 piksel = 1 damlacık puanı
+- **Seviye Atlayarak:** Hesap seviyesi yükseldiğinde 500 Droplets kazanılır [Kaynak](https://github.com/TeamRealB/Wplace-Protocol/blob/main/README_EN.md).
 
-**Seviye Atlayarak:** Her seviye atlama = 500 damlacık puanı (Seviyeler için gereken XP belirtilmiyor, ancak piksel boyandığı zaman seviye atlandığı gözlemlenmiştir.)
-
-**Gerçek Parayla Satın Alarak:** Yüksek fiyatlarla gerçek parayla damlacık puanı satın alınabilir.
+- **Gerçek Parayla Satın Alarak:** Droplets, mağaza üzerinden **gerçek para** karşılığında da satın alınabilir [Kaynak](https://apps.apple.com/tr/app/wplace-paint-the-world/id6792942987).
 
 ## Klan (Alliance)
 
-### 20.000 damlacık puanına klan oluşturulabilir. Bilgiler şu şekildedir:
+- **Klan Oluşturma:** Yeni bir klan kurmak için 20.000 Droplet gereklidir [Oyun içi gözlem]. Klan kurulduğunda bir Alliance Profile (topluluk profili) oluşturulur ve lider/kurucusu belirlenir.
 
-* Klan lideri ve klan adminleri klana şablon ekleyebilir. Bu şablon, klandaki tüm üyelere gösterilir.
+- **Ortak Kanvas (Klan Merkezi):** Her klanın oyun haritası dışında özel bir boyama alanı (Headquarters) vardır. Klan üyeleri bu alanda kendi piksel havuzlarından harcama yaparak boyama yapabilirler. [Resmi Kaynak](https://wplace.live/patch-notes). Bu “HQ” kanvası ana haritadan tamamen ayrıdır; üyeler burada boyama yaptığında ana kanvadaki hakları etkilenmez.
+  
+- **Şablon Paylaşımı:** Klan liderleri veya yöneticileri, klana özel ortak şablonlar (overlays) ekleyebilir. Bu şablonlar klan üyelerine sunulur ve herkes tarafından kullanılabilir [Resmi Kaynak](https://wplace.live/patch-notes). (Örneğin bir turnuva veya proje şablonu klan ile paylaşılarak bütün üyelerin aynı referans üzerinde çalışması sağlanabilir.)
+  
+- **Klan İlerleme:** Klanlar, üyelerinin ana haritaya attığı her geçerli piksel için Alliance Coin kazanır (bu sistem patch notlarında belirtilmiştir). Klan liderleri bu puanlarla başlık, bayrak, yeni renkler ve HQ yükseltmeleri gibi klan geliştirmeleri satın alabilir. Klan içi puan kazanımı büyük ölçüde üyelerin ana kanvas çalışmasıyla sağlanır [Resmi Kaynak](https://wplace.live/patch-notes). Klan yükseltmeleri ise yalnızca klan merkezindeki araç-gereç ve kişiselleştirme (profil resmi, açıklama, vb.) ile ilgilidir [Resmi Kaynak](https://wplace.live/patch-notes).
 
-* Her klana özel boyama alanı vardır, burada sadece klandaki tüm üyeler normal haritadan ayrı bir haritada boyama yaparlar. Normal haritaya etki etmez.
+## Şablon (Overlay)
 
-* Klan geliştirmeleri ile, bu özel alandaki piksel renklerinin kilidini açabilir veya klan profil simgesindeki piksel sayısını arttırarak görselin kalitesi yükseltilebilir.
+- Oyuncular, kendi şablon (overlay) görsellerini yükleyebilir. Desteklenen formatlar arasında PNG, JPEG, WebP, PSD ve ORA bulunur [Resmi Kaynak](https://wplace.live/patch-notes). Wplace’te PSD ve ORA projeleri katmanlarını koruyacak şekilde içe aktarılabilir. (PNG/JPEG/WebP dosyaları da doğrudan yüklenebilir.) Yüklenen şablon üzerinde oyuncu döndürme, ölçekleme veya katman ekleme gibi düzenlemeler yapabilir.
+  
+- **Otomatik Boyama Yok:** Şablonlar kendi kendine piksel boyamazlar, sadece referans amaçlıdır. Yani şablon, hangi koordinattaki pikselin hangi renge boyanacağını göstererek oyuncuya büyük kolaylık sağlar [Oyun İçi Gözlem]. Böylece katılımcılar referans görsel üzerinde rehber alarak daha hızlı ve hatasız çizebilirler.
 
-* Klan geliştirmeleri için ayrı bir puan hesaplanır, nasıl kazanıldığı net olarak belirtilmemiştir. Ancak her üyenin normal haritada piksel boyayarak bu puanı artırdığı gözlemlenmiştir.
-
-* Klandaki hiçbir geliştirme normal haritada avantaj sunmaz. Çoğunluğu özel alandaki kilitli boyalar içindir, geri kalan ise klandaki özelleştirmeler (klan profili, klan açıklaması v.b) içindir.
-
-## Şablon
-
-* Resmi yükledikten sonra oyuncu şablonu istediği gibi büyütebilir, küçültebilir, ters çevirebilir veya üstüne ek resimler ekleyebilir.
-
-* Şablonlar, otomatik boyama yapmaz ancak resmi pikselleştirerek hangi renge boyanması gerektiğini gösterir ve oyuncuya muazzam bir kolaylık sağlar. 
+Kaynaklar: Wplace resmi patch notları ve topluluk rehberleri. Oyun içi gözlemler, yukarıdaki mekaniklerin uygulamada doğruluğunu desteklemektedir.
