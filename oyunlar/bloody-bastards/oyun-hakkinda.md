@@ -2,7 +2,7 @@
 
 layout: default
 
-Oyun Hakkında
+# Oyun Hakkında
 
 Geliştirici: Tibith [Resmi Kaynak](https://play.google.com/store/apps/details?id=com.tibith.badboxing)
 
