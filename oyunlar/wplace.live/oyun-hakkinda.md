@@ -1,19 +1,15 @@
 ---
+
 layout: default
----
 
-# OYUN HAKKINDA 
+# Oyun Hakkında
 
-* - Oyunun çıkış tarihi 21 Temmuz 2025 olarak belirtilmektedir. [Kaynak](https://apnews.com/article/345b5ca144417050ab5c455fa984643d)
+İşletmeci: WPLACE - PAINT THE WORLD LTDA [Resmi Kaynak](https://wplace.live/terms/terms-of-service)
 
-* - Oyun, hem bilgisayarlarda hem de tüm mobil ve tablet cihazlarda [Resmi Site](https://wplace.live/) üzerinden kullanılabilir.
+Yayınlanma Tarihi: 21 Temmuz 2025 [Kaynak](https://apnews.com/article/345b5ca144417050ab5c455fa984643d)
 
-* - Oyun, gerçek dünya haritası üzerine kurulmuş çok oyunculu ve işbirlikçi bir piksel sanatı platformudur. [Kaynak](https://play.google.com/store/apps/details?id=live.wplace.twa)
+Platformlar: Web, Android ve iOS. [Resmi Kaynak](https://wplace.live/) [Resmi Kaynak](https://play.google.com/store/apps/details?id=live.wplace.twa)
 
-* - Oyuncular, dünya haritası üzerindeki alanlara tek tek pikseller yerleştirerek piksel sanatları oluşturabilir.
+Tür: Gerçek dünya haritası üzerinde çalışan, çok oyunculu ve gerçek zamanlı ortak piksel sanatı platformu. [Resmi Kaynak](https://wplace.live/terms/terms-of-service) [Resmi Kaynak](https://play.google.com/store/apps/details?id=live.wplace.twa)
 
-* - Yerleştirilen pikseller diğer oyuncular tarafından gerçek zamanlı olarak görülebilir ve başka oyuncular tarafından değiştirilebilir. [Kaynak](https://play.google.com/store/apps/details?id=live.wplace.twa)
-
-* - Oyunda oyuncuların birlikte sanat eserleri oluşturmasının yanı sıra, oluşturdukları eserleri korumaya veya başka bölgelerde yeni çalışmalar yapmaya dayalı bir topluluk yapısı bulunmaktadır.
-
-* - Oyun, Gündelik (Casual) kategorisinde yer almaktadır. [Kaynak](https://play.google.com/store/apps/details?id=live.wplace.twa)
+Resmî Site: [Wplace.live](https://wplace.live/)
