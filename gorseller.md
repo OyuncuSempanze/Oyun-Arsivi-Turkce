@@ -8,9 +8,9 @@ layout: default
 
 Bloody Bastards'taki medeniyetler.
 
-![Oynanış görüntüsü 2](ekran2.png)
+![Kasklar](Screenshot_20260930_224052_com_tibith_badboxing_UnityPlayerActivity.jpg)
 
-Kısa açıklama.
+Bloody Bastards'taki kasklar.
 
 ![Oynanış görüntüsü 3](ekran3.png)
 
