@@ -12,9 +12,9 @@ Bloody Bastards'taki medeniyetler.
 
 Bloody Bastards'taki kasklar.
 
-![Oynanış görüntüsü 3](ekran3.png)
+![Karakter Özelleştirme](Screenshot_20260930_224112_com_tibith_badboxing_UnityPlayerActivity.jpg)
 
-Kısa açıklama.
+Oyundaki karakter özelleştirme menüsü.
 
 ![Oynanış görüntüsü 4](ekran4.png)
 
