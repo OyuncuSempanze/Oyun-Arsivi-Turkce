@@ -14,3 +14,4 @@ Bloody Bastards hakkında Türkçe bilgi arşivi.
 - [Zırhlar](zirhlar.md)
 - [Karakter Özelleştirme](karakter-ozellestirme.md)
 - [Güncellemeler](guncellemeler.md)
+- [Görseller](gorseller.md)
