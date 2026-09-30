@@ -31,7 +31,7 @@ layout: default
 
 **Seviye Atlayarak:** Her seviye atlama = 500 damlacık puanı (Seviyeler için gereken XP belirtilmiyor, ancak piksel boyandığı zaman seviye atlandığı gözlemlenmiştir.)
 
-**Gerçek Parayla Satın Alarak:** Yüksek fiyatlarla gerçek parayla damlacık puanı satın alımabilir.
+**Gerçek Parayla Satın Alarak:** Yüksek fiyatlarla gerçek parayla damlacık puanı satın alınabilir.
 
 ## Klan (Alliance)
 
